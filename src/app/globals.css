@@ -6,10 +6,18 @@ body {
   @apply font-sans bg-gray-100 text-gray-900;
 }
 
-h1, h2 {
-  @apply font-bold;
+h1 {
+  @apply text-4xl font-bold my-4;
+}
+
+h2 {
+  @apply text-3xl font-semibold my-2;
 }
 
 p {
   @apply mb-4;
+}
+
+.btn:hover {
+  @apply underline;
 }
