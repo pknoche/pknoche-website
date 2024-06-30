@@ -2,7 +2,7 @@ import React from 'react';
 
 const Header: React.FC = () => {
   return (
-    <header className="bg-gray-900 text-white p-6 shadow-md w-full mb-4">
+    <header className="bg-gray-900 text-white p-6 shadow-md w-full mb-4 sticky top-0 z-50">
       <div className="container mx-auto flex justify-between items-center">
         <h1 className="text-3xl font-bold">Philipp Knoche</h1>
         <nav>
