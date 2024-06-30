@@ -2,7 +2,7 @@ import React from 'react';
 
 const Projects: React.FC = () => {
   return (
-    <section id="projects" className="mb-8">
+    <section id='projects' className='mb-8'>
       <h2>Projects</h2>
       <ul>
         <li>Project 1: Description and link</li>
