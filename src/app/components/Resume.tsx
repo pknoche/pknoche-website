@@ -6,7 +6,7 @@ const Resume: React.FC = () => {
       <h2 className="mb-8">Resume</h2>
       <div className="bg-white p-4 rounded shadow-md">
         <iframe
-          src="/Philipp_Knoche_resume.pdf"
+          src="https://pknoche-website.s3.amazonaws.com/documents/Philipp_Knoche_resume.pdf"
           className="w-full h-[1125px]"
           title="Resume"
         />
