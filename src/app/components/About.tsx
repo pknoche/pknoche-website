@@ -22,7 +22,19 @@ const About: React.FC = () => {
         <p>
           This website is intended to showcase my portfolio and to provide a
           platform where I can try out new technologies and projects. It is
-          built primarily with React and Next.js and hosted on AWS.
+          built primarily with React, Next.js, and TypeScript, and hosted on
+          AWS.
+        </p>
+        <p>
+          If you would like to get in touch, please contact me through{' '}
+          <a
+            href='https://www.linkedin.com/in/pknoche/'
+            target='_blank'
+            rel='noopener noreferrer'
+            className='underline'
+          >
+            LinkedIn.
+          </a>
         </p>
       </div>
     </section>
