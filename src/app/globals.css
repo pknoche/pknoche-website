@@ -4,6 +4,7 @@
 
 html {
   scroll-padding-top: 90px; /* prevents content from scrolling past fixed navbar when link is clicked */
+  scroll-behavior: smooth;
 }
 
 body {
@@ -20,8 +21,4 @@ h2 {
 
 p {
   @apply mb-4;
-}
-
-.btn:hover {
-  @apply underline;
 }
