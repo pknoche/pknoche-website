@@ -56,7 +56,7 @@ const Projects: React.FC = () => {
   return (
     <section id='projects' className='mb-8'>
       <h2>Projects</h2>
-      <div className='grid grid-cols-3 gap-4'>
+      <div className='grid grid-cols-1 gap-4 md:grid-cols-3'>
         {projectData.map((project, index) => (
           <div key={index} className='card bg-base-100 shadow-xl'>
             <figure className='flex h-48 items-center justify-center overflow-hidden'>
