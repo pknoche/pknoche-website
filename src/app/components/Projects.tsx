@@ -48,7 +48,7 @@ const projectData = [
     title: 'Student Roster Program',
     description:
       'Implemented with C++, this program parses student data from a csv file and allows users to add, delete, and search for students and generate reports.',
-    url: 'https://www.github.com/pknoche/',
+    url: 'https://www.github.com/pknoche/student-roster-program',
   },
 ];
 
