@@ -77,7 +77,7 @@ const Projects: React.FC = () => {
                   rel='noopener noreferrer'
                   className='btn bg-gray-700 text-white'
                 >
-                  GitHub
+                  View on GitHub
                 </a>
               </div>
             </div>
