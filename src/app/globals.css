@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+  scroll-padding-top: 90px; /* prevents content from scrolling past fixed navbar when link is clicked */
+}
+
 body {
   @apply bg-gray-100 font-sans text-gray-900;
 }

@@ -2,7 +2,7 @@ import React from 'react';
 
 const Header: React.FC = () => {
   return (
-    <div className='navbar bg-base-100'>
+    <div className='navbar bg-base-100 sticky top-0 z-50'>
       <div className='flex-1'>
         <a className='pl-4 text-3xl font-bold'>Philipp Knoche</a>
       </div>
