@@ -2,10 +2,14 @@ import React from 'react';
 
 const Footer: React.FC = () => {
   return (
-    <footer className='footer bg-neutral text-neutral-content flex flex-col items-center justify-center p-4'>
+    <footer className='footer flex flex-col items-center justify-center bg-neutral p-4 text-neutral-content'>
       <div className='flex w-full flex-col items-center justify-center'>
         <div className='flex gap-4'>
-          <a href='https://www.linkedin.com/in/pknoche'>
+          <a
+            href='https://www.linkedin.com/in/pknoche'
+            target='_blank'
+            rel='noopener noreferrer'
+          >
             <svg
               xmlns='http://www.w3.org/2000/svg'
               width='24'
@@ -16,7 +20,11 @@ const Footer: React.FC = () => {
               <path d='M22.23 0H1.77C.79 0 0 .77 0 1.72v20.56C0 23.23.79 24 1.77 24h20.46c.98 0 1.77-.77 1.77-1.72V1.72C24 .77 23.21 0 22.23 0zM7.12 20.45H3.56V9h3.56v11.45zM5.34 7.67c-1.14 0-2.07-.93-2.07-2.07 0-1.14.93-2.07 2.07-2.07 1.14 0 2.07.93 2.07 2.07 0 1.14-.93 2.07-2.07 2.07zM20.45 20.45h-3.56v-5.64c0-1.34-.03-3.07-1.87-3.07-1.87 0-2.16 1.46-2.16 2.97v5.74h-3.56V9h3.42v1.56h.05c.48-.9 1.65-1.86 3.4-1.86 3.63 0 4.3 2.39 4.3 5.49v6.26z'></path>
             </svg>
           </a>
-          <a href='https://www.github.com/pknoche'>
+          <a
+            href='https://www.github.com/pknoche'
+            target='_blank'
+            rel='noopener noreferrer'
+          >
             <svg
               xmlns='http://www.w3.org/2000/svg'
               width='24'
