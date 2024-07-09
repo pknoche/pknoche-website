@@ -8,7 +8,7 @@ const projectData = [
     title: 'Portfolio Website',
     description:
       'Implemented with React and Next.js, this website is hosted on AWS and serves as a platform to showcase my portfolio and try out new technologies and projects.',
-    url: 'https://www.github.com/pknoche/pknoche-website',
+    url: 'https://github.com/pknoche/pknoche-website',
   },
   {
     src: '/employee-attrition-predictor.png',
@@ -24,7 +24,7 @@ const projectData = [
     title: 'Package Routing Program',
     description:
       'Implemented with Python, this program simulates a package routing system for a delivery company. It uses a number of heuristic algorithms to determine the most efficient delivery routes and recommends package loading order.',
-    url: 'https://www.github.com/pknoche/package-routing-program',
+    url: 'https://github.com/pknoche/package-routing-program',
   },
   {
     src: '/appointment-manager.jpg',
@@ -32,7 +32,7 @@ const projectData = [
     title: 'Appointment Manager',
     description:
       'Implemented with Java and JavaFX, this program allows users to schedule appointments, manage customer contact information, and generate reports. It uses a MySQL database to store appointment and customer information.',
-    url: 'https://www.github.com/pknoche/appointment-manager',
+    url: 'https://github.com/pknoche/appointment-manager',
   },
   {
     src: '/inventory-management-system.jpg',
@@ -40,7 +40,7 @@ const projectData = [
     title: 'Inventory Management System',
     description:
       'Implemented with Java and JavaFX, this program allows users to add and delete inventory, assign parts to products, and search for parts and products.',
-    url: 'https://www.github.com/pknoche/inventory-management-system',
+    url: 'https://github.com/pknoche/inventory-management-system',
   },
   {
     src: '/student-roster-program.jpg',
@@ -48,7 +48,7 @@ const projectData = [
     title: 'Student Roster Program',
     description:
       'Implemented with C++, this program parses student data from a csv file and allows users to add, delete, and search for students and generate reports.',
-    url: 'https://www.github.com/pknoche/student-roster-program',
+    url: 'https://github.com/pknoche/student-roster-program',
   },
 ];
 

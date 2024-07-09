@@ -21,7 +21,7 @@ const Footer: React.FC = () => {
             </svg>
           </a>
           <a
-            href='https://www.github.com/pknoche'
+            href='https://github.com/pknoche'
             target='_blank'
             rel='noopener noreferrer'
           >
