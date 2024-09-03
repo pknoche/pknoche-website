@@ -14,12 +14,6 @@ const About: React.FC = () => {
           process of developing software and decided to make a change.
         </p>
         <p>
-          I am currently seeking a full-time software development position where
-          I can continue to learn and grow as a developer. I am most interested
-          in full-stack development, but I am open to exploring other areas
-          within the field as well.
-        </p>
-        <p>
           This website is intended to showcase my portfolio and to provide a
           platform where I can try out new technologies and projects. It is
           built primarily with React, Next.js, and TypeScript, and hosted on
